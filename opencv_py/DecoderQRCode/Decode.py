@@ -1,3 +1,7 @@
+#使用opencv  二维码检测器检测 图片中的二维码，标记二维码的位置并显示解码的文字
+#Author:  star8
+#2024-04-18
+
 import cv2
 import numpy as np
 #二维码图片
