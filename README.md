@@ -1,2 +1,2 @@
 # opencv
-learn opencv depth
+learn opencv deepth
